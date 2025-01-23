@@ -1,11 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "NuGetPowerTools/0.29.0": {
+        "type": "package"
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "NuGetPowerTools/0.29.0": {
+      "sha512": "/A1+ZRZQmgOCxYpyl3Vn1SOKM/rM/l+wCJqASLWtJtPFCt9yQV/cPFiREpAtTXRJJ+TFflmZZoEDSkhahJqWvg==",
+      "type": "package",
+      "path": "nugetpowertools/0.29.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "nugetpowertools.0.29.0.nupkg.sha512",
+        "nugetpowertools.nuspec",
+        "tools/MSBuild.psm1",
+        "tools/NuGetMSBuild.psm1",
+        "tools/NuGetPowerTools.psd1",
+        "tools/NuGetPowerTools.psm1",
+        "tools/VS.psm1",
+        "tools/init.ps1"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "NuGetPowerTools >= 0.29.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\alexander.penck.INTERN\\.nuget\\packages\\": {}
@@ -50,6 +75,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "NuGetPowerTools": {
+            "target": "Package",
+            "version": "[0.29.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

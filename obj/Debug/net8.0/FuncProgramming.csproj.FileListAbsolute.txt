@@ -12,3 +12,4 @@ C:\prj\Azubi\APE\FuncProgramming\obj\Debug\net8.0\refint\FuncProgramming.dll
 C:\prj\Azubi\APE\FuncProgramming\obj\Debug\net8.0\FuncProgramming.pdb
 C:\prj\Azubi\APE\FuncProgramming\obj\Debug\net8.0\FuncProgramming.genruntimeconfig.cache
 C:\prj\Azubi\APE\FuncProgramming\obj\Debug\net8.0\ref\FuncProgramming.dll
+C:\prj\Azubi\APE\FuncProgramming\obj\Debug\net8.0\FuncProgramming.sourcelink.json
