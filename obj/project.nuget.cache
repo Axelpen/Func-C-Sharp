@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MxGlC1tcZdw=",
+  "dgSpecHash": "hrTDAK3zGXtOgMc1N/gVIgGfm11USptVXzEUJwaDS3OX62ggQAVDR2ehPgLMdPCRGlaarhpHWUvsxJHlq2PyMw==",
   "success": true,
-  "projectFilePath": "C:\\prj\\Azubi\\APE\\FuncProgramming\\FuncProgramming.csproj",
+  "projectFilePath": "/home/alexuser/Documents/Func-C-Sharp/FuncProgramming.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alexander.penck.INTERN\\.nuget\\packages\\nugetpowertools\\0.29.0\\nugetpowertools.0.29.0.nupkg.sha512"
+    "/home/alexuser/.nuget/packages/nugetpowertools/0.29.0/nugetpowertools.0.29.0.nupkg.sha512",
+    "/home/alexuser/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
   ],
   "logs": []
 }
